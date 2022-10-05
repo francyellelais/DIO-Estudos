@@ -1,0 +1,17 @@
+# Livros de programação para iniciantes em tecnologia
+
+- [  ] **[Padrões de Projetos](https://www.amazon.com.br/Padrões-Projetos-Soluções-Reutilizáveis-Orientados/dp/8573076100/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Padrões+de+Objeto&qid=1572463267&s=books&sr=1-1)**
+- [  ] **[O Programador Apaixonado](https://www.amazon.com.br/Programador-Apaixonado-Construindo-carreira-desenvolvimento-ebook/dp/B00VAAM7LE)**
+- [  ] **[Algoritmos e estruturas de dados](https://www.amazon.com.br/Algoritmos-Estruturas-Dados-Angelo-Guimarães/dp/8521603789)**
+- [  ] **[Código Limpo](https://www.amazon.com.br/Código-limpo-Robert-C-Martin/dp/8576082675/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Código+Limpo&qid=1572463717&s=books&sr=1-1)**
+- [  ] **[Como Ser um Programador Melhor: um manual para programadores que se importam com código](https://www.amazon.com.br/Como-Ser-Um-Programador-Melhor/dp/8575224158/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Como+ser+um+Programador+Melhor&qid=1572464722&s=books&sr=1-1)**
+- [  ] **[Expressões Regulares: Uma abordagem divertida](https://www.amazon.com.br/Expressões-Regulares-Uma-Abordagem-Divertida/dp/8575224743)**
+- [  ] **[Domain Driven Design: Atacando as complexidades no coração do software](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=Domain+Driven+Design%3A+Atacando+as+complexidades+no+coração+do+software+–+Eric+Evans&qid=1622052686&s=books&sr=1-1)**
+- [  ] **[Java®: Como programar](https://www.amazon.com.br/Java®-como-programar-Paul-Deitel/dp/8543004799/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Java+como+Programar&qid=1572464113&s=books&sr=1-1)**
+- [  ] **[Desenvolvendo Websites com PHP](https://www.amazon.com.br/Desenvolvendo-Websites-com-Juliano-Niederauer/dp/8575222341/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Desenvolvendo+Websites+com+PHP&qid=1572466266&s=books&sr=1-2)**
+- [  ] **[Javascript e Jquery: desenvolvimento de interfaces web interativas](https://www.amazon.com.br/Javascript-Jquery-desenvolvimento-Jon-Duckett/dp/8576089459/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=JavaScript+%26+JQuery&qid=1572466500&s=books&sr=1-1)**
+- [  ] **[HTML e CSS: projete e construa websites](https://www.amazon.com.br/HTML-CSS-projete-construa-Websites/dp/8576089394/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=HTML+%26+CSS&qid=1572466952&s=books&sr=1-1)**
+- [  ] **[Introdução à programação com Python](https://www.amazon.com.br/Introdução-Programação-com-Python-Algoritmos/dp/8575227181/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Introdução+a+Programação+com+Phyton&qid=1572467334&s=books&sr=1-1)**
+- [  ] **[Lógica de Programação - Crie seus primeiros programas usando Javascript e HTML](https://www.amazon.com.br/Lógica-Programação-primeiros-programas-Javascript-ebook/dp/B00TZZF2TA/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=Lógica+de+Programação+-+Crie+seus+primeiros+programas+usando+Javascript+e+HTML&qid=1622052862&s=books&sr=1-1)**
+- [  ] **[PHP - Programando com orientação a objetos](https://www.amazon.com.br/Php-Programando-com-Orientação-Objetos/dp/8575226916/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=PHP+Programando+com+Orientações+a+Objetos&qid=1572467104&s=books&sr=1-1)**
+- [  ] **[Aprenda programação orientada a objetos em 21 dias](https://www.amazon.com.br/Aprenda-Programação-Orientada-Objetos-Dias/dp/853461461X/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Aprenda+programação+orientada+a+objetos+em+21+dias&qid=1572544721&sr=8-1)**
